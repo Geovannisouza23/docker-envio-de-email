@@ -1,5 +1,4 @@
-# docker-envio-de-email
-Projeto de envio para emails com Workers
+# docker-envio-de-emai
 **Descrição do Projeto: Sistema de Envio de E-mails com Workers**
 
 **Objetivo:**
